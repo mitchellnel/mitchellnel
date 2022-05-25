@@ -11,5 +11,5 @@
 ##### BIO
 
 - 🏢 I'm currently looking for an internship!
-- ⚙️ I use daily: `.sol`, `.py`, `.c`, `.swift`
+- ⚙️ I use daily: `.sol`, `.py`, `.js`, `.tsx`
 - ⚡️ Fun fact: I'm obssessed about everything F1 and racing
